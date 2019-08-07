@@ -1,4 +1,4 @@
-# PerkinsonsDiseasePrediction
+# ParkinsonsDiseasePrediction
 
 
 Parkinson's disease is a progressive disorder that is caused by degeneration of nerve cells in the part of the brain called the substantia nigra, which controls movement.
